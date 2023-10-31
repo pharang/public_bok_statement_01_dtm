@@ -1,0 +1,4 @@
+Model,ACC,ROC_AUC,BT_ACC,BT_ROC_AUC
+Tree,1.0,1.0,1.0,1.0
+RForest,1.0,1.0,1.0,1.0
+MLP,1.0,1.0,1.0,1.0
